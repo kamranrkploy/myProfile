@@ -1,0 +1,17 @@
+html{
+    background:radial-gradient(rgba(136, 49, 49, 0.801),rgb(31, 0, 0));
+    height: 100vh;
+}
+
+h1{
+    color: beige;
+    margin: 2rem 0;
+    text-align: center;
+    letter-spacing: .5vh;
+}
+
+h1:hover{ 
+    color: chocolate;
+    cursor : context-menu;
+
+}
